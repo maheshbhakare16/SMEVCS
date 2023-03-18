@@ -1,0 +1,17 @@
+JAVA - 
+	1. JDK-1.8
+	2. mysql-jdbc connectoir (latest)
+	3. activation.jar
+	4. mail.jar
+	
+Python - 
+	1. python3.9
+	
+python frameworks - 
+	1. pip install tenserflow
+	2.  pip install keras 
+	3.  pip install nltk
+	4. pip install flask
+	
+Server - 
+	1. Apache tomcat 8 or 8.5
